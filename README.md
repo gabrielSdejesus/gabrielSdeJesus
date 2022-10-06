@@ -3,10 +3,17 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas na UCSAL.
 
 Linguagens conhecidas:<br/>
-<img src="https://img.icons8.com/color/344/java-coffee-cup-logo.png" mwidth="30px" height="30px"/>
 <img src="https://img.icons8.com/color/344/javascript--v1.png" mwidth="30px" height="30px"/>
 <img src="https://img.icons8.com/color/344/html-5--v1.png" mwidth="30px" height="30px"/>
 <img src="https://img.icons8.com/color/344/css3.png" mwidth="30px" height="30px"/>
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" mwidth="30px" height="30px"/>
+
+Linguagem que possuo domínio:<br/>
+<img src="https://img.icons8.com/color/344/java-coffee-cup-logo.png" mwidth="30px" height="30px"/>
+
+API's & Frameworks:<br/>
+JDBC, JPA, HIBERNATE.
+
 
 <h4> Formações Acadêmicas:</h4>
 - 📚 Análise e Desenvolvimento de Sistemas - UCSAL | Conclusão: 06/2024<br/>
