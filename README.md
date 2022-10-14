@@ -1,7 +1,5 @@
 <h1> Olá, meu nome é Gabriel de Jesus!</h1>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UCSAL.
-
 Linguagens conhecidas:<br/>
 <img src="https://img.icons8.com/color/344/javascript--v1.png" mwidth="30px" height="30px"/>
 <img src="https://img.icons8.com/color/344/html-5--v1.png" mwidth="30px" height="30px"/>
