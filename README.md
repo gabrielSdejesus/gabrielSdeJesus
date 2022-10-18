@@ -10,8 +10,10 @@ Linguagem que possuo domínio:<br/>
 <img src="https://img.icons8.com/color/344/java-coffee-cup-logo.png" mwidth="30px" height="30px"/>
 
 API's & Frameworks:<br/>
-JDBC, JPA, HIBERNATE, SPRING BOOT.
+JDBC, JPA, HIBERNATE, SPRING BOOT.<br/>
 
+Ferramentas:<br/>
+GIT, Maven.
 
 <h4> Formações Acadêmicas:</h4>
 - 📚 Análise e Desenvolvimento de Sistemas - UCSAL | Conclusão: 06/2024<br/>
