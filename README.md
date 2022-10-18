@@ -10,7 +10,7 @@ Linguagem que possuo domínio:<br/>
 <img src="https://img.icons8.com/color/344/java-coffee-cup-logo.png" mwidth="30px" height="30px"/>
 
 API's & Frameworks:<br/>
-JDBC, JPA, HIBERNATE.
+JDBC, JPA, HIBERNATE, SPRING BOOT.
 
 
 <h4> Formações Acadêmicas:</h4>
