@@ -1,12 +1,10 @@
 <h1> Olá, meu nome é Gabriel de Jesus!</h1>
 
-Linguagens conhecidas:<br/>
+Linguagens:<br/>
 <img src="https://img.icons8.com/color/344/javascript--v1.png" mwidth="30px" height="30px"/>
 <img src="https://img.icons8.com/color/344/html-5--v1.png" mwidth="30px" height="30px"/>
 <img src="https://img.icons8.com/color/344/css3.png" mwidth="30px" height="30px"/>
 <img src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" mwidth="30px" height="30px"/>
-
-Linguagem que possuo domínio:<br/>
 <img src="https://img.icons8.com/color/344/java-coffee-cup-logo.png" mwidth="30px" height="30px"/>
 
 API's & Frameworks:<br/>
