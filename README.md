@@ -11,7 +11,7 @@ API's & Frameworks:<br/>
 JDBC, JPA, HIBERNATE, SPRING BOOT.<br/>
 
 Ferramentas:<br/>
-GIT, Maven.
+GIT, Figma, Maven.
 
 <h4> Formações Acadêmicas:</h4>
 - 📚 Análise e Desenvolvimento de Sistemas - UCSAL | Conclusão: 06/2024<br/>
