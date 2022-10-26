@@ -19,8 +19,8 @@ GIT, Figma, Maven.
 
 <h4>Cursos paralelos</h4>
 <ul type="circle">
-<li> Java COMPLETO Programação Orientada a Objetos +Projetos, professor Nélio Alves.</li>
-<li>Curso Web Moderno Completo com JavaScript 2022 + Projetos, professor Leonardo Moura.</l1>
+<li>Java COMPLETO Programação Orientada a Objetos +Projetos, professor Nélio Alves.</li>
+<li>Java 2022 COMPLETO: Do Zero ao Profissional + Projetos! , professor Leonardo Moura.</l1>
 </ul>
 
 
@@ -29,7 +29,7 @@ GIT, Figma, Maven.
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 </h4>
 
-[<img align="left" height="110px" width="110px" alt="Elevadores OTIS" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHk_49WTp8-Ew/company-logo_200_200/0/1519905283543?e=2147483647&v=beta&t=a8ozpmNFxsWdvlqhvDJ1JmY4mMBeTkTQbBc5cM3wgzY"/>](https://otis.com/)
+<!--[<img align="left" height="110px" width="110px" alt="Elevadores OTIS" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHk_49WTp8-Ew/company-logo_200_200/0/1519905283543?e=2147483647&v=beta&t=a8ozpmNFxsWdvlqhvDJ1JmY4mMBeTkTQbBc5cM3wgzY"/>](https://otis.com/)
  - Empresa: Elevadores OTIS 
  - Cargo: Técnico em Serviços I 
  - Principais Atribuições: Solucionar defeitos lógicos em sistemas eletrônicos, Programar inversores e placas eletrônicas.
@@ -47,4 +47,4 @@ GIT, Figma, Maven.
 - Empresa: Elevadores OTIS
 - Cargo: Jovem Aprendiz
 - Principais Atribuições: Pacote office, Atendimento ao cliente.
-- Tempo: 1 ano e 5 meses | set/2017 - jan/2019
+- Tempo: 1 ano e 5 meses | set/2017 - jan/2019-->
