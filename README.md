@@ -1,10 +1,10 @@
-# Gabriel de Jesus - Desenvolvedor Back End Java
+# Gabriel de Jesus - Desenvolvedor Back End Java | PHP
 
 Olá! Sou o Gabriel de Jesus, um especialista em desenvolvimento Back End Java, com amplo conhecimento em tecnologias relacionadas ao ecossistema Java, bancos de dados, APIs RESTful e metodologias ágeis. Sou certificado pela AWS Certified Cloud Practitioner .
 
 ## 🚀 Tecnologias e Habilidades
 
-- Linguagens de Programação: Java 8+, JavaScript, (HTML/CSS);
+- Linguagens de Programação: Java 8+, PHP 5.3+ , JavaScript, (HTML/CSS);
 - Tecnologias Java: Stream API, OOP, JDBC;
 - Ecossistema Spring: Spring Web, Spring Security, Spring Test, JPA, Spring Boot;
 - Testes Unitários: Mockito;
