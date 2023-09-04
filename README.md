@@ -4,8 +4,8 @@ Olá! Sou o Gabriel de Jesus, um especialista em desenvolvimento Back End Java, 
 
 ## 🚀 Tecnologias e Habilidades
 
-- Linguagens de Programação: Java 8+, PHP 5.3+ , TypeScript, JavaScript, (HTML/CSS);
-- Front End: Bootstrap, Angular;
+- Linguagens de Programação Back End: Java 7+ (8, 11, 17), PHP 5.3+ , JSF, OOP;
+- Front End: JS, TS, Bootstrap, Angular, jQuery;
 - Tecnologias Java: Stream API, OOP, JDBC;
 - Ecossistema Spring: Spring Web, Spring Security, Spring Test, JPA, Spring Boot;
 - Testes Unitários: Mockito, Junit 5;
@@ -18,6 +18,7 @@ Olá! Sou o Gabriel de Jesus, um especialista em desenvolvimento Back End Java, 
 - Documentação de APIs: Swagger;
 - Event-Driven Development: Kafka Listener;
 - Sistemas Operacionais: Windows, Linux;
+- SOLID;
 - <b>Amazon Web Services: Certificado AWS Practitioner.</b>
 
 ## 🔗 Links Relevantes
