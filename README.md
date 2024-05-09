@@ -1,11 +1,11 @@
-# Gabriel de Jesus - Desenvolvedor Full Stack Java | Angular 
+# Gabriel de Jesus - Desenvolvedor Full Stack Java
 
-Olá! Sou o Gabriel de Jesus, um especialista em desenvolvimento Back End Java e certificado pela AWS, com amplo conhecimento em tecnologias relacionadas ao Front End como TS, JS e Angular.
+Olá! Sou o Gabriel de Jesus, um especialista em desenvolvimento Back End Java e certificado pela AWS, com amplo conhecimento em tecnologias relacionadas ao Front End como TS, JS, Angular e React.
 
 ## 🚀 Tecnologias e Habilidades
 
 - Back End: Java 8+;
-- Front End: JS, TS, Bootstrap, Angular, jQuery;
+- Front End: JS, TS, Bootstrap, Angular, React, jQuery;
 - Tecnologias Java: Stream API, OOP, JDBC, Apache Tomcat, WebLogic, JavaEE;
 - Ecossistema Spring: Spring Web, Spring Security, Spring Test, JPA, Spring MVC;
 - Testes Unitários: Mockito, Junit 5;
