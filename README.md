@@ -5,11 +5,11 @@ Olá! Sou o Gabriel de Jesus, um especialista em desenvolvimento Back End Java e
 ## 🚀 Tecnologias e Habilidades
 
 - Back End: Java 7, 8, 11 e 17;
-- Front End: JS, TS, Bootstrap, Angular, React, jQuery;
+- Front End: JS/HTML/CSS, Bootstrap, AngularJS, React, jQuery, AJAX;
 - Tecnologias Java: Stream API, OOP, JDBC, Apache Tomcat, WebLogic, JavaEE;
 - Ecossistema Spring: Spring Web, Spring Security, Spring Test, JPA, Spring MVC;
 - Testes Unitários: Mockito, Junit 5;
-- Bancos de Dados: Oracle DB, Sybase DB;
+- Bancos de Dados: Oracle DB, Sybase DB, MongoDB;
 - APIs RESTful;
 - Metodologias Ágeis (SCRUM);
 - Controle de Versão: Git, Github;
