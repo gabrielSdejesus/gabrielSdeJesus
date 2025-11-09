@@ -49,16 +49,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielSdejesus&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielSdejesus&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/oracle.svg" height="40" alt="oracle logo"  />
 </div>
