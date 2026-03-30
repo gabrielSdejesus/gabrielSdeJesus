@@ -4,10 +4,6 @@
 
 <p align="left">Olá! Sou Gabriel de Jesus, um desenvolvedor especializado principalmente em Back End com foco em Java. Com uma certificação da AWS, trago comigo uma paixão por resolver problemas complexos e criar soluções robustas e eficientes. Minha experiência se estende por diversas tecnologias e metodologias, sempre com o objetivo de entregar projetos de alta qualidade. Vamos nos conectar e transformar ideias em realidade!<br><br></p>
 
-<div align="center">
-  <a href="https://www.credly.com/badges/53d79afc-779d-4be0-9c3d-c9e16adff0ff/linked_i n_profile"><img src="https://github.com/gabrielSdejesus/gabrielSdeJesus/assets/108988003/4612b2da-d107-4836-a98f-1b4f1755c07b" alt="Certification AWS Cloud Practitioner"/></a>
-</div>
-
 ###
 
 <h2 align="left">Techs</h2>
